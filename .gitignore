@@ -1,0 +1,13 @@
+.git/
+.vs/
+.idea/
+**/bin/
+**/obj/
+**/build/
+.gradle/
+.dart_tool/
+local.properties
+.env
+.env.*
+!.env.example
+**/appsettings.Development.json

@@ -1,0 +1,6 @@
+@duong_vo_bao_chau_HostAddress = http://localhost:5121
+
+GET {{duong_vo_bao_chau_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
